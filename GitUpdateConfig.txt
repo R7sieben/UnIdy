@@ -5,4 +5,4 @@ Repository
 Ignore:
 .gitignore
 UnIdy
-.pdb
+*.pdb
