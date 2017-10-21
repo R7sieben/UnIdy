@@ -1,3 +1,6 @@
-Owner:R7sieben
-Name:UnIdy
-Release
+Owner: Stridemann
+Name: PoE_PassiveSkillTreePlanter
+Repository
+
+Ignore:
+.gitignore
