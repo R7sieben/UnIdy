@@ -1,5 +1,5 @@
-Owner: Stridemann
-Name: PoE_PassiveSkillTreePlanter
+Owner: R7sieben
+Name: UnIdyR7
 Repository
 
 Ignore:
