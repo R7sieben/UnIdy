@@ -1,9 +1,8 @@
 Owner:R7sieben
 Name:UnIdy
-Repository
+Release
 
 Ignore:
-UnIdy
 .gitignore
 .gitattributes
-README.md
+UnIdy.pdb
