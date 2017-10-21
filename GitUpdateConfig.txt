@@ -1,6 +1,6 @@
 Owner:R7sieben
 Name:UnIdy
-Repository
+Release
 
 Ignore:
 .gitignore
